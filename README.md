@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a weather forecast app that will take in an input of a city name and give the user the current weather and five day forecast for the specific city.  The most recent queries will be stored and will under the 'History' section and their information will then populate the 'Current' section.  
+This is a weather forecast app that will take in an input of a city name and give the user the current weather and five day forecast for the specific city.  The most recent queries will be stored and will under the 'Previously Searched Cities' section and their information will then populate the '5 Day Forecast' section.  
 This website pulls its data from several OpenWeatherMaps API
 ### API
 
